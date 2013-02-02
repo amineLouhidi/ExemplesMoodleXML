@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<quizz >
 <question type=multichoice>
 	<name>
 		<text>Demo question à choix multiples</text>
@@ -21,7 +22,7 @@
 		</feedback>
 	</answer>
 	<answer fraction="0">
-		<text>Une autre mauvaise réponse   </text>
+		<text>Une autre mauvaise réponse                          </text>
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>
@@ -29,3 +30,4 @@
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
 </question>
+</quizz>
